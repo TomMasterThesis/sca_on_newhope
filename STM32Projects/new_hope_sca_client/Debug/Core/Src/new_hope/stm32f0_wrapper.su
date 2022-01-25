@@ -1,0 +1,7 @@
+stm32f0_wrapper.c:86:6:dma_request	16	static
+stm32f0_wrapper.c:99:6:dma_transmit	16	static
+stm32f0_wrapper.c:113:5:dma_done	4	static
+stm32f0_wrapper.c:118:6:send_USART_str	40	dynamic
+stm32f0_wrapper.c:160:6:send_poly	24	static
+stm32f0_wrapper.c:177:6:signal_host	16	static
+stm32f0_wrapper.c:186:6:recv_signal_host	24	static

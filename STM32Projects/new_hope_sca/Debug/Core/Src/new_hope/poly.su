@@ -1,0 +1,9 @@
+poly.c:15:6:poly_amplify	8	static
+poly.c:33:6:poly_tobytes_all	4	static
+poly.c:44:6:poly_frombytes_all	8	static
+poly.c:54:6:poly_densify	56	static
+poly.c:123:6:poly_uniform	904	dynamic,bounded
+poly.c:150:6:poly_getnoise	1072	static
+poly.c:184:6:poly_bitrev	0	static
+poly.c:190:6:poly_ntt	8	static
+poly.c:196:6:poly_invntt	8	static

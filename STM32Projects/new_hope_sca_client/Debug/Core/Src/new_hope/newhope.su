@@ -1,0 +1,10 @@
+newhope.c:8:13:encode_ap	24	static
+newhope.c:19:13:decode_ap	24	static
+newhope.c:33:13:encode_bp	24	static
+newhope.c:43:13:decode_bp	24	static
+newhope.c:63:6:gen_a	16	static
+newhope.c:71:6:newhope_keygen_internal	2104	static
+newhope.c:92:6:newhope_keygen	48	static
+newhope.c:105:6:newhope_sharedb_internal	2144	static
+newhope.c:155:6:newhope_sharedb	24	static
+newhope.c:163:6:newhope_shareda	2072	static

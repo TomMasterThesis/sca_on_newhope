@@ -1,0 +1,2 @@
+reduce.c:9:10:montgomery_reduce	24	static
+reduce.c:21:10:barrett_reduce	24	static

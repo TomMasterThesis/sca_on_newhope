@@ -1,0 +1,2 @@
+crypto_stream_chacha20.c:13:12:crypto_core_chacha20	160	static
+crypto_stream_chacha20.c:33:5:crypto_stream_chacha20	184	static

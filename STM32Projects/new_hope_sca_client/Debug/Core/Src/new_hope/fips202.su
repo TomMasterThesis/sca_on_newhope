@@ -1,0 +1,6 @@
+fips202.c:13:13:keccak_squeezefourblocks_asm	24	static
+fips202.c:30:13:keccak_squeezeblock_asm	24	static
+fips202.c:40:13:keccak_absorb_asm	256	static
+fips202.c:62:6:shake128_absorb_asm	40	static
+fips202.c:70:6:shake128_squeezeblocks_asm	40	static
+fips202.c:84:6:sha3256	392	static

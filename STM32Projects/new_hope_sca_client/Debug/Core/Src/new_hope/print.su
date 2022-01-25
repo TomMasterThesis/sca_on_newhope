@@ -1,0 +1,6 @@
+print.c:5:13:initUART	4	static
+print.c:35:6:write_byte	16	static
+print.c:47:6:print	24	static
+print.c:59:6:bigint_print	40	static
+print.c:73:6:printllu	48	static
+print.c:89:6:print_stack	24	static
