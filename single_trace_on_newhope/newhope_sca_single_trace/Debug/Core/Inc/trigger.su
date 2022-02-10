@@ -1,0 +1,2 @@
+trigger.c:3:6:trigger_high	8	static
+trigger.c:8:6:trigger_low	8	static

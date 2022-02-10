@@ -1,0 +1,2 @@
+#define NEWHOPE_N 512
+#define NEWHOPE_Q 12289
